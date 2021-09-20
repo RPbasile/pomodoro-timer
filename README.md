@@ -1,2 +1,2 @@
 # Pomodoro Timer
-This is a repository for a simple timer employing Pomodoro technique with a five minute break
+This is a repository for a simple timer employing the Pomodoro technique with 5-25 minute focus time and 1-5 minute break time.
